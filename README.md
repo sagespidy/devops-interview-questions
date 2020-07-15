@@ -73,15 +73,8 @@
 ### AutoScaling
 
 1. What is an ASG ?
-
 2. What is Launch config ?
-
 3. Explain Minimum , Maximum and Desired  capacity  in an ASG .
-
 4. What are different scaling policies ?
-
 5. Can you recieve traffice from a load balancer in ASG 
-
 6. How do you deploy code to ASG ?
-
-   
